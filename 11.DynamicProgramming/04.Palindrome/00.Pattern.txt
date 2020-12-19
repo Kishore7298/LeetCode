@@ -1,0 +1,2 @@
+In this pattern, We make use of DP to calculate palindrome for substring for all the ranges.
+We utilize the precomputed palidrome check, to solve the variant.
